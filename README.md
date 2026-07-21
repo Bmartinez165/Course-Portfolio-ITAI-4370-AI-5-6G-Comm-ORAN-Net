@@ -1,3 +1,4 @@
+[Assessment Artifacts.csv](https://github.com/user-attachments/files/30212256/Assessment.Artifacts.csv)
 # Course-Portfolio-ITAI-4370-AI-5-6G-Comm-ORAN-Net 
 ## AI, 5G/6G Communications, and Open RAN
 
